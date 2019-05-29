@@ -10,3 +10,4 @@ altered for consistency.
 * [Elementry](https://github.com/elementary/wallpapers)
 * [Antegros](https://github.com/Antergos/wallpapers/)
 * [Ubuntu Budgie](https://github.com/UbuntuBudgie/budgie-wallpapers/)
+* [ParrotSec](https://github.com/ParrotSec/parrot-wallpapers)
